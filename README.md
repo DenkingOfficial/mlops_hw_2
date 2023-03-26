@@ -1,4 +1,4 @@
-# MLOps homework #1
+# MLOps homework #2
 
 Team #2
 
